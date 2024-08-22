@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: Test_Branches
   annotations:
-    github.com/project-slug: Andreas-Rieger/Test_Branches
+    github.com/project-slug: Andreas-Rieger-BS/Test_Branches
 spec:
   type: service
   lifecycle: experimental
